@@ -1,5 +1,5 @@
 ## Abdullah Ahmed 
-![Cool GIF](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F4vfjr9e1wuey.gif)
+![Cool GIF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6p-Pqd_DTssF3rHTEuE4iqCx_45aWa6LXi75gZaB6O86mj5Wix4f4lHf10pOWn5N1BY&usqp=CAU)
 <! -- https://wallpapercave.com/wp/wp11704456.gif -->
 <h2 style="font-family: 'Courier New', monospace">Data scientist and Engineer</h2>
 
