@@ -1,5 +1,5 @@
 ## Abdullah Ahmed 
-![]([https://github.com/abdulahmd/](https://i.redd.it/egps5jcvdblb1.gif))
+![]([https://github.com/abdulahmd/]([https://i.redd.it/egps5jcvdblb1.gif](https://wallpapercave.com/wp/wp11704456.gif)))
 
 Data scientist and Engineer
 
