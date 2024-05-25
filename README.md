@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,python,opencv,pytorch,discord,notion,unity,blender,react,flutter,dart,npm&perline=5)](https://skillicons.dev)
 
 <h2 style="font-family: 'Courier New', monospace">My Links</h2>
-![Cool GIF](linktr.ee/abdulahmd)
+linktr.ee/abdulahmd
 
 
 
