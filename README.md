@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>
-      <li>abdullahahmedpk18@gmail.com</li>
+      <li><a>abdullahahmedpk18@gmail.com</a></li>
       <li>🤖🦾🚀</li>
     </td>
     <td>
@@ -21,5 +21,3 @@
     </td>
   </tr>
 </table>
-
-<h2 style="font-family: 'Courier New', monospace">My Links</h2>
