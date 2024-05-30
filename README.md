@@ -11,8 +11,8 @@
   </tr>
   <tr>
     <td>
+      🤖🦾🚀
       <li><a href="abdullahahmedpk18@gmail.com">abdullahahmedpk18@gmail.com</a></li>
-      <li>🤖🦾🚀</li>
     </td>
     <td>
       <a href="https://linktr.ee/abdulahmd">
