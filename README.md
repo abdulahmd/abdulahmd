@@ -12,4 +12,6 @@
 </table>
 
 <h2 style="font-family: 'Courier New', monospace">My Links</h2>
-<a href="https://linktr.ee/abdulahmd">Link Tree</a>
+<a href="https://linktr.ee/abdulahmd">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-white-icon.png" alt="Linktree" width="50">
+</a>
