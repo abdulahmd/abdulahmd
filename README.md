@@ -9,6 +9,11 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <li>السَّلَامُ عَلَيْكُمْ</li>
+    </td>
+  </tr>
 </table>
 
 <h2 style="font-family: 'Courier New', monospace">My Links</h2>
