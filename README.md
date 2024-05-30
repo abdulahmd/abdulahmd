@@ -11,13 +11,12 @@
   </tr>
   <tr>
     <td>
-      <li>ReactJS Developer</li>
-      <li>Deep Learning Developer</li>
-      <li>Full Stack Developer</li>
+      <li>abdullahahmedpk18@gmail.com</li>
+      <li>🤖🦾🚀</li>
     </td>
     <td>
       <a href="https://linktr.ee/abdulahmd">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-white-icon.png" alt="Linktree" width="100">
+        <img style="text-align: center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-white-icon.png" alt="Linktree" width="100">
       </a>
     </td>
   </tr>
