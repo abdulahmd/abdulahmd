@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>
-      🤖🦾🚀
+      <h2>🤖🦾🚀</h2>
       <li><a href="abdullahahmedpk18@gmail.com">abdullahahmedpk18@gmail.com</a></li>
     </td>
     <td>
