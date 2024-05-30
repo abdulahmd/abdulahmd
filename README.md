@@ -7,15 +7,13 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,html,css,js,python,opencv,pytorch,discord,notion,unity,blender,react,flutter,dart,npm&perline=5" alt="My Skills">
       </a>
-      <table>
-<tr>
+    <tr>
     <td>
       <h2>🤖🦾🚀</h2>
       <li><a href="mailto:abdullahahmedpk18@gmail.com">abdullahahmedpk18@gmail.com</a></li>
       <li><a href="https://linktr.ee/abdulahmd">Link Tree</a></li>
     </td>
   </tr>
-</table>
     </td>
   </tr>
 </table>
