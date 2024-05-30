@@ -12,12 +12,14 @@
   <tr>
     <td>
       <h2>🤖🦾🚀</h2>
-      <li><a href="abdullahahmedpk18@gmail.com">abdullahahmedpk18@gmail.com</a></li>
+      <li><a href="mailto:abdullahahmedpk18@gmail.com">abdullahahmedpk18@gmail.com</a></li>
     </td>
     <td>
-      <a href="https://linktr.ee/abdulahmd">
-        <img style="text-align: center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-white-icon.png" alt="Linktree" width="100">
-      </a>
+      <div style="text-align: center;">
+        <a href="https://linktr.ee/abdulahmd">
+          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-white-icon.png" alt="Linktree" width="100">
+        </a>
+      </div>
     </td>
   </tr>
 </table>
