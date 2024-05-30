@@ -9,8 +9,14 @@
       </a>
     </td>
   </tr>
-  <tr>
+</table>
+
+<table>
+<tr>
+    <td>
       <h2>🤖🦾🚀</h2>
       <li><a href="mailto:abdullahahmedpk18@gmail.com">abdullahahmedpk18@gmail.com</a></li>
+      <li><a href="https://linktr.ee/abdulahmd">Link Tree</a></li>
+    </td>
   </tr>
 </table>
