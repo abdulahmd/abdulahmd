@@ -7,7 +7,9 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,html,css,js,python,opencv,pytorch,linkedin,notion,unity,blender,react,flutter,dart,npm&perline=5" alt="My Skills">
       </a>
-      <button href="https://linktr.ee/abdulahmd">Click Me</button>
+      <a href="https://linktr.ee/abdulahmd">
+        <button type="button">Click Me</button>
+      </a>
     </td>
   </tr>
 </table>
