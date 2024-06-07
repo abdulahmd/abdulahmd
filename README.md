@@ -9,7 +9,7 @@
         <img src="https://skillicons.dev/icons?i=java,html,css,js,python,opencv,pytorch,linkedin,notion,unity,blender,react,flutter,dart,npm&perline=5" alt="My Skills">
       </a>
       <br></br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://linktr.ee/abdulahmd">
           <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Click Me">
         </a>
