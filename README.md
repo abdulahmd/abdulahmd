@@ -9,7 +9,7 @@
         <img src="https://skillicons.dev/icons?i=java,html,css,js,python,opencv,pytorch,linkedin,notion,unity,blender,react,flutter,dart,npm&perline=5" alt="My Skills">
       </a>
       <br>
-      <a href="https://linktr.ee/abdulahmd">
+      <a href="https://linktr.ee/abdulahmd" style="text-align: center">
         <img src="https://img.shields.io/badge/Click%20Me-4CAF50?style=for-the-badge&logo=link&logoColor=white" alt="Click Me">
       </a>
     </td>
