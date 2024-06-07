@@ -10,7 +10,7 @@
       </a>
       <br>
       <a href="https://linktr.ee/abdulahmd">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Click Me">
+        <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Click Me">
       </a>
     </td>
   </tr>
