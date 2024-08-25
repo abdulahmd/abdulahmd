@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="https://media.tenor.com/_VcD3-ShQlgAAAAi/space-planet.gif" alt="Cool GIF"></td>
+    <td><img src="https://hips.hearstapps.com/popularmechanics/assets/16/49/nasagif5.gif" alt="Cool GIF"></td>
     <td>
       <h2 style="font-family: 'Courier New', monospace">My Tools 🔨</h2>
       <a href="https://skillicons.dev">
