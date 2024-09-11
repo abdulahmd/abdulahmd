@@ -4,7 +4,7 @@
   <tr>
     <td><img src="https://hips.hearstapps.com/popularmechanics/assets/16/49/nasagif5.gif" alt="Cool GIF"></td>
     <td>
-      <h2 style="font-family: 'Courier New', monospace">Free Palestine 🇵🇸</h2>
+      <h2 style="font-family: 'Courier New', monospace">(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</h2>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,vscode,java,html,css,js,linkedin,notion,unity,blender,react,flutter,npm&perline=5" alt="My Skills">
       </a>
