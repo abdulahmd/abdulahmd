@@ -6,7 +6,7 @@
     <td>
       <h2 style="font-family: 'Courier New', monospace">Elon Pls hire me</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,vscode,java,html,css,js,linkedin,notion,unity,blender,react,flutter,npm&perline=5" alt="My Skills">
+        <img src="https://skillicons.dev/icons?i=vscode,anaconda,java,python,pytorch,matlab,notion,opencv,unity,blender&perline=5" alt="My Skills">
       </a>
       <br></br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
