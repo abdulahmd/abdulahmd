@@ -4,7 +4,7 @@
   <tr>
     <td><img src="https://hips.hearstapps.com/popularmechanics/assets/16/49/nasagif5.gif" alt="Cool GIF"></td>
     <td>
-      <h2 style="font-family: 'Courier New', monospace">Elon Pls hire me</h2>
+      <h2 style="font-family: 'Courier New', monospace">Fwaeh</h2>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode,anaconda,java,python,pytorch,matlab,notion,opencv,unity,blender&perline=5" alt="My Skills">
       </a>
