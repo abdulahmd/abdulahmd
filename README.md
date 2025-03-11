@@ -4,11 +4,13 @@
 </p>
 
 <!-- GitHub Stats & Skills Icons (Centered) -->
-<div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+<div style="display: flex; flex-direction: column; align-items: center;">
   <a href="https://github.com/abdulahmd/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=abdulahmd&theme=blue_navy" alt="Abdullah's GitHub Stats">
   </a>
-  <a href="https://skillicons.dev">
+</div>
+<div>
+  <a href="https://skillicons.dev" style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://skillicons.dev/icons?i=vscode,anaconda,java,python,pytorch,matlab,notion,opencv,unity,blender&perline=5" alt="My Skills">
   </a>
 </div>
