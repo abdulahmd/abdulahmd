@@ -1,6 +1,4 @@
-## Abdullah Ahmed 🤖🚀🦾
-
-[![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulahmd)](https://github.com/abdulahmd/github-readme-stats)
+[![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulahmd&theme=blue_navy)](https://github.com/abdulahmd/github-readme-stats)
 <table>
     <td>
       <a href="https://skillicons.dev">
