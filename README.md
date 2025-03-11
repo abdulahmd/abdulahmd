@@ -4,7 +4,7 @@
 </p>
 
 <!-- GitHub Stats & Skills Icons (Centered) -->
-<div style="display: flex; flex-direction: column; align: center;">
+<div align: center;">
   <a href="https://github.com/abdulahmd/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=abdulahmd&theme=blue_navy" alt="Abdullah's GitHub Stats">
   </a>
