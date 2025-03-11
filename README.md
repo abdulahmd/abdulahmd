@@ -1,4 +1,4 @@
-![Header](./github-header-image(1).png)
+![Header](./github-header-image.png)
 [![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulahmd&theme=blue_navy)](https://github.com/abdulahmd/github-readme-stats)
 <table>
     <td>
