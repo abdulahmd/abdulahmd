@@ -5,7 +5,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://skillicons.dev" style="display: inline-block; position: relative; top: -30px;">
-    <img src="https://skillicons.dev/icons?i=vscode,anaconda,java,python,pytorch,matlab,notion,opencv,unity,blender&perline=5" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=vscode,anaconda,java,python,pytorch,matlab,notion,opencv,unity,blender,idea,matlab,obsidian,notion&perline=5" alt="My Skills">
   </a>
 </div>
 
