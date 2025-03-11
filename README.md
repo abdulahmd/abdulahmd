@@ -1,8 +1,3 @@
-<!-- Header Image -->
-<p align="center">
-  <img src="./github-header-image.png" alt="Header">
-</p>
-
 <!-- GitHub Stats & Skills Icons Side by Side (Properly Centered) -->
 <div align="center">
   <a href="https://github.com/abdulahmd/github-readme-stats" style="display: inline-block;">
