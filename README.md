@@ -3,8 +3,8 @@
   <img src="./github-header-image.png" alt="Header">
 </p>
 
-<!-- GitHub Stats & Skills Icons -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<!-- GitHub Stats & Skills Icons (Centered) -->
+<div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
   <a href="https://github.com/abdulahmd/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=abdulahmd&theme=blue_navy" alt="Abdullah's GitHub Stats">
   </a>
