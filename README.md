@@ -1,12 +1,13 @@
 ![Header](./github-header-image.png)
-<table>
-    <tr>
-        [![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulahmd&theme=blue_navy)](https://github.com/abdulahmd/github-readme-stats)
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,anaconda,java,python,pytorch,matlab,notion,opencv,unity,blender&perline=5" alt="My Skills">
-      </a>
-    </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <a href="https://github.com/abdulahmd/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=abdulahmd&theme=blue_navy" alt="Abdullah's GitHub Stats">
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,anaconda,java,python,pytorch,matlab,notion,opencv,unity,blender&perline=5" alt="My Skills">
+  </a>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulahmd/abdulahmd/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulahmd/abdulahmd/output/github-contribution-grid-snake.svg">
