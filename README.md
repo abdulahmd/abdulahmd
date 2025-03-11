@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
-[![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulahmd&theme=blue_navy)](https://github.com/abdulahmd/github-readme-stats)
 <table>
     <tr>
+        [![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulahmd&theme=blue_navy)](https://github.com/abdulahmd/github-readme-stats)
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode,anaconda,java,python,pytorch,matlab,notion,opencv,unity,blender&perline=5" alt="My Skills">
       </a>
