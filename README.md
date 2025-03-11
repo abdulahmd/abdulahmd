@@ -5,11 +5,11 @@
 
 <!-- GitHub Stats & Skills Icons Side by Side (Properly Centered) -->
 <div align="center">
-  <a href="https://github.com/abdulahmd/github-readme-stats" style="display: inline-block; vertical-align: middle;">
+  <a href="https://github.com/abdulahmd/github-readme-stats" style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api?username=abdulahmd&theme=blue_navy" alt="Abdullah's GitHub Stats">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://skillicons.dev" style="display: inline-block; vertical-align: middle;">
+  <a href="https://skillicons.dev" style="display: inline-block; position: relative; top: -30px;">
     <img src="https://skillicons.dev/icons?i=vscode,anaconda,java,python,pytorch,matlab,notion,opencv,unity,blender&perline=5" alt="My Skills">
   </a>
 </div>
