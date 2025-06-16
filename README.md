@@ -5,7 +5,9 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://skillicons.dev" style="display: inline-block; position: relative; top: -30px;">
-    <img src="https://skillicons.dev/icons?i=git,ubuntu,apple,unity,arduino,docker,matlab,arduino,raspberrypi,opencv,pytorch,cpp,python,java,cmake&perline=6" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=git,ubuntu,apple,windows,unity,arduino,
+      raspberrypi,docker,matlab,arduino,opencv,pytorch,
+      cpp,python,java,cmake,anaconda,bash&perline=6" alt="My Skills">
   </a>
 </div>
 
