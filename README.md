@@ -1,9 +1,5 @@
 <!-- GitHub Stats & Skills Icons Side by Side (Properly Centered) -->
 <div align="center">
-  <a href="https://github.com/abdulahmd/github-readme-stats" style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdulahmd&theme=blue_navy" alt="Abdullah's GitHub Stats">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://skillicons.dev" style="display: inline-block; position: relative; top: -30px;">
     <img src="https://skillicons.dev/icons?i=git,ubuntu,apple,windows,unity,arduino,raspberrypi,docker,matlab,ros,opencv,pytorch,cpp,python,java,cmake,anaconda,bash&perline=6" alt="My Skills">
   </a>
