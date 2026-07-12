@@ -1,3 +1,7 @@
+My name's Abdullah, I also go by Aboody, I like autonomous systems & control
+
+abdulahmd.github.io
+
 <!-- GitHub Contribution Snake Animation -->
 <p align="center">
   <picture>
