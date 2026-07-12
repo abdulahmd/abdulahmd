@@ -1,4 +1,4 @@
-# My name's Abdullah, I also go by Aboody, I like autonomous systems & control
+## My name's Abdullah, I also go by Aboody, I like autonomous systems & control
 
 abdulahmd.github.io
 
