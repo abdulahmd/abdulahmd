@@ -4,7 +4,7 @@
 
 I'm an undergraduate Systems Engineering student at the University of Texas at Dallas, focused on **robotics, autonomous systems, embedded software, and functional safety**.
 
-🌐 **Website:** https://abdulahmd.github.io/
+🌐 **Website:** https://abdulahmd.github.io/  
 📫 **Email:** [abdullah.ahmed2@utdallas.edu](mailto:abdullah.ahmed2@utdallas.edu)
 
 ### 🔧 Currently
