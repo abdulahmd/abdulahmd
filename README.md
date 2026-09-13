@@ -4,6 +4,9 @@
 
 I'm an undergraduate Systems Engineering student at the University of Texas at Dallas, focused on **robotics, autonomous systems, embedded software, and functional safety**.
 
+🌐 **Website:** https://abdulahmd.github.io/
+📫 **Email:** [abdullah.ahmed2@utdallas.edu](mailto:abdullah.ahmed2@utdallas.edu)
+
 ### 🔧 Currently
 
 * 🤖 Multi-Agent Robotics Researcher — CIrENs Lab
@@ -23,10 +26,6 @@ I'm an undergraduate Systems Engineering student at the University of Texas at D
 **Robotics:** ROS 2 · Nav2 · micro-ROS · Gazebo · Isaac Sim · OpenCV
 
 **Engineering:** Linux · Git · Docker · MATLAB · KiCad · Onshape
-
-📫 **[abdullah.ahmed2@utdallas.edu](mailto:abdullah.ahmed2@utdallas.edu)**
-
-🌐 https://abdulahmd.github.io/
 
 
 <!-- GitHub Contribution Snake Animation -->
