@@ -1,4 +1,4 @@
-## I like autonomous systems & control
+## Autonomous Systems & Control
 ### utd syse
 ### abdullah.ahmed2@utdallas.edu
 ### abdulahmd.github.io
