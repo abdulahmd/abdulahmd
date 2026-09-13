@@ -1,5 +1,6 @@
-### My name's Abdullah, I also go by Aboody, I like autonomous systems & control
-
+### I like autonomous systems & control
+utd syse
+abdullah.ahmed2@utdallas.edu
 abdulahmd.github.io
 
 <!-- GitHub Contribution Snake Animation -->
