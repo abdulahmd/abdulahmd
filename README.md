@@ -1,7 +1,7 @@
 ### I like autonomous systems & control
-## utd syse
-## abdullah.ahmed2@utdallas.edu
-## abdulahmd.github.io
+# utd syse
+# abdullah.ahmed2@utdallas.edu
+# abdulahmd.github.io
 
 <!-- GitHub Contribution Snake Animation -->
 <p align="center">
