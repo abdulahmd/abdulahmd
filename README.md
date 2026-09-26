@@ -1,4 +1,11 @@
-# Abdullah Ahmed
+<!-- GitHub Contribution Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulahmd/abdulahmd/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulahmd/abdulahmd/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/abdulahmd/abdulahmd/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 **Systems Engineering @ UT Dallas | Robotics & Control | Autonomous Systems & Functional Safety**
 
@@ -29,13 +36,3 @@ I'm an undergraduate Systems Engineering student at the University of Texas at D
 **Robotics:** ROS 2 · Nav2 · micro-ROS · Gazebo · Isaac Sim · OpenCV
 
 **Engineering:** Linux · Git · Docker · MATLAB · KiCad · Onshape
-
-
-<!-- GitHub Contribution Snake Animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulahmd/abdulahmd/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulahmd/abdulahmd/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/abdulahmd/abdulahmd/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
