@@ -7,8 +7,6 @@
   </picture>
 </p>
 
-https://spotify-live-banner.vercel.app/?theme=dark
-
 **Systems Engineering @ UT Dallas | Robotics & Control | Autonomous Systems & Functional Safety**
 
 I'm an undergraduate Systems Engineering student at the University of Texas at Dallas, focused on **robotics, autonomous systems, embedded software, and functional safety**.
