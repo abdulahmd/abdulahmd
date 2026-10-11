@@ -1,88 +1,107 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00d4aa&height=200&section=header&text=Abdullah%20Ahmed&fontSize=52&fontColor=e6edf3&fontAlignY=36&desc=Robotics%20%E2%80%A2%20Autonomy%20%E2%80%A2%20Functional%20Safety&descSize=18&descAlignY=58&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:111111,100:2b2b2b&height=210&section=header&text=Abdullah%20Ahmed&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Robotics%20%E2%80%A2%20Autonomy%20%E2%80%A2%20Functional%20Safety&descSize=17&descAlignY=58&animation=fadeIn" alt="header"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/abdulahmd">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=620&lines=%24+ros2+launch+abdullah+bringup.launch.py;%5BINFO%5D+Multi-agent+controller%3A+ONLINE;%5BINFO%5D+Resilience+layer%3A+ARMED;%5BINFO%5D+Safety+monitor%3A+ISO+26262+mindset;%5BINFO%5D+Status%3A+building+robots+that+don't+fall+over" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=640&lines=%24+ros2+launch+abdullah+orbit_insertion.launch.py;%5BINFO%5D+Multi-agent+controller%3A+NOMINAL;%5BINFO%5D+Resilience+layer%3A+ARMED;%5BINFO%5D+Safety+monitor%3A+watching+for+faults;%5BINFO%5D+Current+orbit%3A+Saturn+%28ring+plane%2C+probably%29" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://abdulahmd.github.io/"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=githubpages&logoColor=00d4aa" /></a>
-  <a href="https://www.linkedin.com/in/abdulahmd"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=1f6feb" /></a>
-  <a href="https://drive.google.com/file/d/1jvkq7n_vZGPys0mkO-rqCesTGeyzKJkA/preview"><img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=readthedocs&logoColor=00d4aa" /></a>
-  <a href="mailto:abdullah.ahmed2@utdallas.edu"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=1f6feb" /></a>
-  <img src="https://komarev.com/ghpvc/?username=abdulahmd&style=for-the-badge&color=0d1117&label=PINGS" />
+  <a href="https://abdulahmd.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdulahmd"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1jvkq7n_vZGPys0mkO-rqCesTGeyzKJkA/preview"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+  <a href="mailto:abdullah.ahmed2@utdallas.edu"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=abdulahmd&style=for-the-badge&color=000000&label=SIGNALS+RECEIVED" />
 </p>
+
+```
+          .            *                  .               *
+    *            .          ___.....___          .
+                     _.--'''           '''--._                    .
+        .         .-'      .------------.      '-.        *
+   ─────────────(─────────(   ABDULLAH   )─────────)─────────────
+                  '-.      '------------'      .-'
+   *                 ''--..___       ___..--''          .
+            .                 '''''            *               .
+```
 
 ---
 
-### `> ros2 topic echo /abdullah/status`
+### 🪐 `> ros2 topic echo /saturn/telemetry`
 
 ```yaml
 header:
   frame_id: "ut_dallas"
   stamp: "B.S. Systems Engineering — in progress"
-node:
-  name: abdullah_ahmed
-  role: systems_engineer
-  focus: [robotics, autonomy, embedded, functional_safety, physical_ai]
+vehicle:
+  callsign: abdullah_ahmed
+  class: systems_engineer
+  payload: [robotics, autonomy, embedded, functional_safety, physical_ai]
 active_missions:
   - id: cirens_lab
     role: "Multi-Agent Robotics Researcher"
-    task: "control + resilience in heterogeneous robot networks"
+    objective: "control + resilience in heterogeneous robot networks"
   - id: comet_lunabotics
     role: "Embedded Systems Engineer — AIAA"
-    task: "getting a rover to dig on the (simulated) Moon"
+    objective: "getting a rover to dig on the (simulated) Moon"
   - id: reynolds_and_moore
     role: "Incoming FuSa Systems Engineer"
-    task: "making physical AI fail safely"
-health: OK
-fault_flags: []   # working on it
+    objective: "making physical AI fail safely"
+status: NOMINAL
+anomalies: []   # for now
 ```
 
 ---
 
-### 🛰️ `> ros2 node info /abdullah/toolchain`
+### 🛰️ `> ros2 node info /saturn/onboard_systems`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,c,cs,java,bash,matlab&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=ros,opencv,linux,git,docker&theme=dark" />
+  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-000000?style=flat-square&logo=mathworks&logoColor=white" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nav2-22314E?style=flat-square&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/micro--ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square&logo=gazebo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/SLAM-0d1117?style=flat-square&logo=probot&logoColor=00d4aa" />
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" />
-  <img src="https://img.shields.io/badge/Onshape-0D2E58?style=flat-square&logo=onshape&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS_2-000000?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nav2-000000?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/micro--ROS-000000?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gazebo-000000?style=flat-square&logo=gazebo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Isaac_Sim-000000?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/SLAM-000000?style=flat-square&logo=probot&logoColor=white" />
 </p>
-
----
-
-### 📡 `> ros2 topic hz /abdullah/commits`
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulahmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=1f6feb&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=abdulahmd&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4aa&fire=1f6feb&currStreakLabel=00d4aa" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulahmd&bg_color=0d1117&color=e6edf3&line=00d4aa&point=1f6feb&area=true&area_color=00d4aa&hide_border=true&custom_title=Telemetry%3A%20contribution%20signal" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-000000?style=flat-square&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Onshape-000000?style=flat-square&logo=onshape&logoColor=white" />
 </p>
 
 ---
 
-### 🎧 `> ros2 topic echo /abdullah/audio_in`
+### 📡 `> ros2 topic hz /saturn/downlink`
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=5p0lmgwg3m66li56eqcx2kcii&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulahmd&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=abdulahmd&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=a8a8a8&dates=6e6e6e&stroke=3a3a3a" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulahmd&bg_color=000000&color=c9c9c9&line=ffffff&point=8b8b8b&area=true&area_color=ffffff&hide_border=true&custom_title=Orbital%20telemetry%3A%20contribution%20signal" />
+</p>
+
+---
+
+### 🎧 `> ros2 topic echo /saturn/deep_space_audio`
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=5p0lmgwg3m66li56eqcx2kcii&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false" alt="Spotify now playing" />
   </a>
 </p>
 
@@ -103,5 +122,5 @@ fault_flags: []   # working on it
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:1f6feb,100:0d1117&height=110&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,40:111111,100:000000&height=110&section=footer" alt="footer"/>
 </p>
