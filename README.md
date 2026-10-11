@@ -80,9 +80,9 @@ anomalies: []   # for now
   <img height="165" src="https://streak-stats.demolab.com?user=abdulahmd&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=a8a8a8&dates=6e6e6e&stroke=3a3a3a" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulahmd&bg_color=000000&color=c9c9c9&line=ffffff&point=8b8b8b&area=true&area_color=ffffff&hide_border=true&custom_title=Orbital%20telemetry%3A%20contribution%20signal" />
-</p>
+</p> -->
 
 ---
 
