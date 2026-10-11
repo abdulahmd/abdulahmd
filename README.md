@@ -15,17 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=abdulahmd&style=for-the-badge&color=000000&label=SIGNALS+RECEIVED" />
 </p>
 
-```
-          .            *                  .               *
-    *            .          ___.....___          .
-                     _.--'''           '''--._                    .
-        .         .-'      .------------.      '-.        *
-   ─────────────(─────────(   ABDULLAH   )─────────)─────────────
-                  '-.      '------------'      .-'
-   *                 ''--..___       ___..--''          .
-            .                 '''''            *               .
-```
-
 ---
 
 ### 🪐 `> ros2 topic echo /saturn/telemetry`
