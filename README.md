@@ -24,7 +24,7 @@ header:
   frame_id: "ut_dallas"
   stamp: "B.S. Systems Engineering — in progress"
 vehicle:
-  callsign: abdullah_ahmed
+  callsign: abdulahmd
   class: systems_engineer
   payload: [robotics, autonomy, embedded, functional_safety, physical_ai]
 active_missions:
