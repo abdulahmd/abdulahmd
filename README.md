@@ -106,8 +106,6 @@ anomalies: []   # for now
   </picture>
 </p>
 
-<p align="center"><sub><i>Greedy coverage planner. Not optimal. Eats every commit anyway.</i></sub></p>
-
 ---
 
 <p align="center">
