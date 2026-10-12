@@ -101,9 +101,3 @@ anomalies: []   # for now
     <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/abdulahmd/abdulahmd/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,40:111111,100:000000&height=110&section=footer" alt="footer"/>
-</p>
