@@ -1,7 +1,26 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:111111,100:2b2b2b&height=210&section=header&text=Abdullah%20Ahmed&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Robotics%20%E2%80%A2%20Autonomy%20%E2%80%A2%20Functional%20Safety&descSize=17&descAlignY=58&animation=fadeIn" alt="header"/>
-</p>
+   .        *              .                    .           *       
+        .            .            *                  .           
+
+   █████╗ ██████╗ ██████╗ ██╗   ██╗██╗     ██╗      █████╗ ██╗  ██╗
+  ██╔══██╗██╔══██╗██╔══██╗██║   ██║██║     ██║     ██╔══██╗██║  ██║
+  ███████║██████╔╝██║  ██║██║   ██║██║     ██║     ███████║███████║
+  ██╔══██║██╔══██╗██║  ██║██║   ██║██║     ██║     ██╔══██║██╔══██║
+  ██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗███████╗██║  ██║██║  ██║
+  ╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+
+              █████╗ ██╗  ██╗███╗   ███╗███████╗██████╗
+             ██╔══██╗██║  ██║████╗ ████║██╔════╝██╔══██╗
+             ███████║███████║██╔████╔██║█████╗  ██║  ██║
+             ██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
+             ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
+             ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
+
+  ───────────────────────────────────────────────────────────────── 
+  robotics · autonomy · embedded systems · functional safety
+  systems engineering @ ut dallas            [ status: NOMINAL ]
+
+     *            .                  .         *             .
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=640&lines=%24+ros2+launch+abdullah+orbit_insertion.launch.py;%5BINFO%5D+Multi-agent+controller%3A+NOMINAL;%5BINFO%5D+Resilience+layer%3A+ARMED;%5BINFO%5D+Safety+monitor%3A+watching+for+faults;%5BINFO%5D+Current+orbit%3A+Saturn+%28ring+plane%2C+probably%29" alt="Typing SVG" />
