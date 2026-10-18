@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/abdulahmd"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/1jvkq7n_vZGPys0mkO-rqCesTGeyzKJkA/preview"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
   <a href="mailto:abdullah.ahmed2@utdallas.edu"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=abdulahmd&style=for-the-badge&color=000000&label=SIGNALS+RECEIVED" />
 </p>
 
 ---
